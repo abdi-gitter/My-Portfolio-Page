@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: sans-serif,'Times New Roman', Times, serif;
+}
+
+
+#header{
+    background-color: #E2DFDF;
+    color: #333;
+}
+
+
+
+#header h1{
+    font-size: 60px;
+}
+
+#header h2{
+     font-size: 24px;
+     margin-bottom: 50px;
+    }
+
+.content{
+        text-align: center;
+        padding: 50px;
+        width: 60%;
+        margin: auto;
+        font-size: 18px;
+}
+#services{
+    background-color: #DDEDFF;
+    color: #333;
+}
+#footer{
+    color: white;
+}
+#footer .content{
+    padding: 20px;
+}
+
+
+#banner #profile-img {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    margin-top: -130px;
+    border: 10px solid white;
+    margin-bottom: 25px;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+#social-list li{
+    display: inline-block;   
+}
+.social-img {
+    width: 40px;
+    height: 40px;
+    margin: 30px 15px;
+  }
+  /* Correct CSS syntax for plain CSS */
+#social-list li {
+    display: inline-block;
+}
+
+.social-img {
+    width: 40px;
+    height: 40px;
+    margin: 30px 15px;
+}
+
+#social-list li a {
+    text-decoration: none;
+    display: inline-block;
+}
+#about h1 {
+    margin-bottom: 50px;
+    
+}
+#about img {
+    width: 50%;
+    border-radius: 10px;
+}
+#about img{
+    margin-bottom: 50px;
+}
+#about p{
+    margin-bottom: 50px;
+}
+#about a {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+#footer .content {
+    padding: 20px;
+    
+}
+#about {
+    color: #333;
+    background-color: antiquewhite;
+}
+#footer {
+    background-color: #333;
+    color: white;
+  }
+  #services a {
+    padding: 20px;
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 10px;
+    margin-top: 50px;
+
+  }
+  a {
+    text-decoration: none;
+    display: inline-block;
+  }
